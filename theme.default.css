@@ -1,0 +1,95 @@
+/*****************************************************
+ * Theme For: Parallel Show
+ * Default Theme
+ * Author: Nootan Ghimire <nootan.ghimire@gmail.com>
+ *
+ * Notes:
+ * Do not define rules for the class 'hide'
+ * Body's margin and padding is set to zero.
+ ******************************************************/
+
+ /* Theme Base Features */
+
+.default {
+  margin:60px; 	
+	text-align: center;
+	font-family: "Open Sans", sans-serif;
+}
+
+.default * {
+	padding: 20px;
+}
+
+.default div {
+	min-height: 90px;
+	padding: 30px;
+	border: 1px solid #a20804;
+	border-radius: 5px;
+	background-color: #555;
+	color:#fff;
+	transition:.6s;
+	cursor: pointer;
+}
+
+.default div:hover {
+	background-color: #fff;
+	color:#555;
+	transition:.6s;
+}
+
+.default div:active {
+	transition:.6s;
+}
+
+.default pre {
+	text-align: left !important; 
+}
+
+
+/* Footer Style */
+footer {
+	margin-right: 20px;
+	float: right;
+}	
+
+
+/* Fonts */
+.segoeUI {
+	font-family: "Segoe UI", sans-serif;
+}
+
+.helvetica {
+	font-family: "Helvetica", sans-serif;
+}
+
+.openSans {
+	font-family: "Open Sans", sans-serif;
+}
+
+
+/* Font Sizes */
+
+.tiny {
+	font-size: 15px;
+}
+.medium {
+	font-size: 20px;
+}
+.large {
+	font-size: 25px;
+}
+.extraLarge{
+	font-size: 30px;
+}
+.extraExtraLarge{
+	font-size: 30px;
+}
+
+/* Font Weights */
+
+.light {
+	font-weight: lighter;
+}
+.bold {
+	font-weight: bolder;
+}
