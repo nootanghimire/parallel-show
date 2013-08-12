@@ -20,13 +20,13 @@ Then you can move left/right or up/down to iterate through the slide
  \
   \------------------------------------------------
   |
-  |  [Section1-1] <--> [Section2-1] <--> [Section3-1]
+  |  [Section1-1] &lt; - - &gt; [Section2-1] &lt; - - &gt; [Section3-1]
+  | 
+  |       / \                / \                  / \
+  |        |                  |                    |
+  |       \ /                \ /                  \ /
   |
-  |      / \               / \               / \
-  |       |                 |                 |
-  |      \ /               \ /               \ /
-  |
-  |  [Section1-2] <--> [Section2-2] <--> [Section3-2]
+  |  [Section1-2] &lt; - - &gt; [Section2-2] &lt; - - &gt; [Section3-2]
   |
   |
 
