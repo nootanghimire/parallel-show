@@ -1,0 +1,16 @@
+/*******************************************
+ *
+ * main.css
+ * CSS Rules needed for "Parallel Show"
+ *
+ *******************************************/
+
+/*Set Body to Zero*/
+body{ 
+  margin:0;
+	padding: 0;
+}
+
+.hide {
+	display:none;
+}
