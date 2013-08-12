@@ -14,6 +14,8 @@ It has a heading (or Base Div) which is shown on page load.
 Then you have to press 'D' to enter the presentation
 Then you can move left/right or up/down to iterate through the slide 
 
+<pre>
+
 \
  \
   \------------------------------------------------
@@ -28,6 +30,7 @@ Then you can move left/right or up/down to iterate through the slide
   |
   |
 
+</pre>
 The figure gives the basic idea on how to go through the slides.
 
 
