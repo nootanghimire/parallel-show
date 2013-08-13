@@ -100,5 +100,5 @@ var baseDiv = "now", /*In this case*/
 
 Or, Watch the demo:
 ---------------
-1) Download The Repo.
-2) Open up
+# Download The Repo.
+# Open up `learnTheWeb.html`
